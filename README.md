@@ -8,6 +8,8 @@ Este es el repositorio padre: https://github.com/d-prieto/David-aprende-data-sci
 ## Nivell 1
 - Exercici 1
 
+https://github.com/d-prieto/programaci-_Num-rica/blob/main/S03%20T04%20exercici%201.ipynb
+
 Crea una funció que donat un Array d’una dimensió, et faci un resum estadístic bàsic de les dades. Si detecta que l’array té més d’una dimensió, ha de mostrar un missatge d’error.
 
 - Exercici 2
