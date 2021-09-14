@@ -1,4 +1,4 @@
-# programaci-_Numérica
+# programación-_Numérica
 
 
 Familiaritza't amb la Programació Numèrica a través de la llibreria NumPy.
