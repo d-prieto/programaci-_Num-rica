@@ -3,6 +3,8 @@
 
 Familiaritza't amb la Programació Numèrica a través de la llibreria NumPy.
 
+Este es el repositorio padre: https://github.com/d-prieto/David-aprende-data-science-con-Python
+
 ## Nivell 1
 - Exercici 1
 
