@@ -14,12 +14,18 @@ Crea una funció que donat un Array d’una dimensió, et faci un resum estadís
 
 - Exercici 2
 
+https://github.com/d-prieto/programaci-_Num-rica/blob/main/%20S03%20T04%20exercici%202.ipynb
+
 Crea una funció que et generi un quadrat NxN de nombres aleatoris entre el 0 i el 100.
 
 - Exercici 3
 
+https://github.com/d-prieto/programaci-_Num-rica/blob/main/S03%20T04%20exercici%203.ipynb
+
 Crea una funció que donada una taula de dues dimensions, et calculi els totals per fila i els totals per columna.
 
 - Exercici 4
+
+https://github.com/d-prieto/programaci-_Num-rica/blob/main/S03%20T04%20exercici%204.ipynb
 
 Implementa manualment una funció que calculi el coeficient de correlació. Informa’t-en sobre els seus usos i interpretació.
